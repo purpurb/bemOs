@@ -174,7 +174,7 @@ void sysinfo(){
  
   vga.setCursor(0,48+32);
   vga.println("running bemOs v1.0-pre");
-  vga.println("layfik1 | 2024");
+  vga.println("purpurb | 2024");
   vga.println("");
   vga.println("3bit color pallete");
   vga.print("free memory heap: ");
